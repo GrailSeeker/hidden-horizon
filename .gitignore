@@ -348,3 +348,7 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+/HiddenHorizon/HiddenHorizon.UI/appsettings.Development.json
+/HiddenHorizon/HiddenHorizon.Users.API/appsettings.Development.json
+/HiddenHorizon/HiddenHorizon.Secrets.API/appsettings.Development.json
+/HiddenHorizon/HiddenHorizon.Organizations.API/appsettings.Development.json
